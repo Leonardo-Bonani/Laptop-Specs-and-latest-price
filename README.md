@@ -2,12 +2,10 @@
 *Projeto de análise exploratória de dados usando a linguagem SQL em um conjunto de dados sobre preço e especificações de computadores (notebooks).*
 <br>
 
-Neste projeto foi feita uma análise simples para descobrir a média de preços praticados pelas pricipais marcas de notebooks
-e para descobrir qual o tipo de memoria RAM mais participa das vendas de notebooks. 
+Neste projeto foi usado uma base de dados do Kaggle com o nome de "Laptop Specs and latest price". Foi feita uma análise simples para
+descobrir a média de preços praticados pelas pricipais marcas de notebooks e qual o tipo de memoria RAM mais participa das vendas de notebooks. 
 <br>
-Foi disponibilizado neste repositório um arquivo .txt onde encontra-se somente os codigos em linguagem SQL usados na análise.
-<br>
-Abaixo está o relatorio da ánalise.
+Foi disponibilizado neste repositório um arquivo .txt onde encontra-se somente os codigos em linguagem SQL usados no projeto. Abaixo está o relatorio da ánalise.
 <br><br>
 
 ## Análise Exploratória dos Dados
